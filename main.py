@@ -15,5 +15,6 @@ if __name__ == '__main__':
     print("Gmail")
     print("Google Web Mail Validation")
     print("My First Gmail Automation")
+    print("My First Git Commit")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
